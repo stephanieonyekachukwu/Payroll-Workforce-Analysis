@@ -49,6 +49,50 @@ The workforce is evenly split by gender, with:
 11. Recommendations
 12. Stakeholder Reporting
 
+## Data Quality Finding
+
+During validation, I identified an inconsistency between the
+calculated payroll figures in the primary salarydata sheet and
+the displayed values in another workbook section.
+
+Further investigation indicated that the displayed figures were
+consistent with stale/unrecalculated Excel formula values.
+
+I therefore used the validated salarydata calculations as the
+primary analytical source and recommended:
+- Recalculation of workbook formulas
+- Establishment of a single source of truth
+- Automated payroll reconciliation checks
+- Validation controls before stakeholder reporting
+
+## Business Recommendations
+1. Establish a single payroll source of truth
+Eliminate conflicting versions of payroll calculations and clearly identify the authoritative dataset.
+2. Strengthen payroll controls
+Implement checks for:
+- Duplicate employee IDs
+-	Missing information
+-	Formula errors
+-	Incorrect deductions
+-	Gross/net salary reconciliation
+3. Review compensation architecture
+Introduce formal:
+-	Job grades
+-	Salary bands
+-	Role-based compensation
+-	Career progression frameworks
+4. Conduct a detailed pay-equity review
+Investigate the observed gender salary difference using like-for-like comparisons.
+5. Improve management reporting
+Develop a recurring payroll dashboard covering:
+-	Headcount
+-	Basic payroll
+-	Gross payroll
+-	Net payroll
+-	Department payroll
+-	Average salary
+-	Salary distribution
+-	Payroll trends
 
 
 
