@@ -13,3 +13,7 @@ An end-to-end payroll analysis project examining employee compensation, departme
 - 5.76 years average employee tenure
 
 ## Executive Dashboard
+<img width="947" height="547" alt="image_2026-09-14_132925809" src="https://github.com/user-attachments/assets/d7675472-1a96-456a-85f1-1075f8c63f00" />
+
+
+
