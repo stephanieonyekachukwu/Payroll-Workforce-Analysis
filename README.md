@@ -35,6 +35,20 @@ The workforce is evenly split by gender, with:
 
 <img width="607" height="347" alt="Employee gender salary analysis screenshot" src="https://github.com/user-attachments/assets/64cfad3f-bd41-4133-8123-b1363ef5e92c" />
 
+## Analytical Approach
+1. Data Understanding
+2. Data Cleaning
+3. Data Quality Validation
+4. Payroll Calculation Validation
+5. Descriptive Analysis
+6. Department Analysis
+7. Salary Distribution Analysis
+8. Workforce Demographic Analysis
+9. Pay Equity Signal Analysis
+10. Insight Generation
+11. Recommendations
+12. Stakeholder Reporting
+
 
 
 
