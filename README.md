@@ -94,6 +94,32 @@ Develop a recurring payroll dashboard covering:
 -	Salary distribution
 -	Payroll trends
 
+## Skills Demonstrated
+### Technical Skills
+- Microsoft Excel
+- Data Cleaning
+- Data Validation
+- Pivot Tables
+- Excel Formulas
+- Data Visualization
+- Descriptive Statistics
+- Payroll Analysis
+
+### Analytical Skills
+- Data Quality Assessment
+- KPI Development
+- Salary Distribution Analysis
+- Departmental Analysis
+- Demographic Analysis
+- Pay Equity Analysis
+- Insight Generation
+
+### Business Skills
+- Stakeholder Reporting
+- Business Recommendations
+- Executive Communication
+- Data Storytelling
+
 
 
 
