@@ -26,8 +26,8 @@ The analysis found that ICT is the largest payroll cost centre,accounting for ap
 
 ## Workforce & Pay Equity Analysis
 The workforce is evenly split by gender, with:
-•	25 female employees
-•	25 male employees
+-	25 female employees
+-	25 male employees
 
 ## Average basic salary by Gender:
 - Male	  ₦384,400
