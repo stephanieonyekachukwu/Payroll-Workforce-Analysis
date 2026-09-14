@@ -120,6 +120,10 @@ Develop a recurring payroll dashboard covering:
 - Executive Communication
 - Data Storytelling
 
+## Project Deliverables
 
+- [Stakeholder Analysis Report](report/Payroll_Stakeholder_Analysis_Report.pdf)
+- [Excel Analysis Workbook](analysis/payroll_analysis.xlsx)
+- [LinkedIn Project Post](linkedin/LinkedIn_Project_Post.md)
 
 
