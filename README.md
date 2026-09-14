@@ -33,6 +33,7 @@ The workforce is evenly split by gender, with:
 - Male	  ₦384,400
 - Female	₦304,400
 
+<img width="607" height="347" alt="Employee gender salary analysis screenshot" src="https://github.com/user-attachments/assets/64cfad3f-bd41-4133-8123-b1363ef5e92c" />
 
 
 
